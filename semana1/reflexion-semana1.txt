@@ -1,0 +1,9 @@
+El uso responsable de la información en internet, la participación ciudadana y 
+herramientas como Git están profundamente relacionados. Cuando una persona verifica 
+la información antes de compartirla, está actuando como un ciudadano digital 
+responsable, contribuyendo a una comunidad mejor informada. De la misma manera, 
+Git nos enseña a registrar cada cambio que hacemos en nuestro trabajo de forma 
+ordenada y transparente, lo cual es también una forma de responsabilidad. Así como 
+un buen ciudadano digital no publica cualquier cosa sin revisarla, un programador 
+no sube cualquier código sin documentarlo. Ambas prácticas comparten el mismo valor: 
+actuar con cuidado, orden y honestidad frente a los demás.
