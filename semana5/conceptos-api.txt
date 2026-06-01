@@ -1,0 +1,11 @@
+La ruta app.post('/reporte', (req, res) => {}) define un endpoint en Express que recibe solicitudes HTTP de tipo POST 
+en la dirección "/reporte". Esta ruta obtiene el valor enviado en el campo "mensaje" desde el cuerpo 
+de la solicitud mediante req.body.mensaje.
+
+Luego, el servidor responde con un objeto JSON que indica que el reporte fue recibido correctamente y devuelve 
+el mensaje enviado por el usuario.
+
+En una aplicación comunitaria, esta ruta podría servir para que los ciudadanos envíen
+ reportes sobre problemas de su comunidad, como daños en las vías, fallas en el alumbrado público,
+acumulación de basura o situaciones de emergencia. De esta forma, la información puede ser almacenada y gestionada
+por la organización encargada de atender los reportes.

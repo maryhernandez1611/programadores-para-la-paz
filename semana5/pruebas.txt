@@ -1,0 +1,14 @@
+Prueba 1: http://localhost:3000
+
+Al ingresar a esta ruta principal, el servidor responde con el mensaje "Servidor activo",
+indicando que la aplicación está funcionando correctamente.
+
+Prueba 2: http://localhost:3000/saludo
+
+Al ingresar a esta ruta, el servidor responde con el mensaje "Hola comunidad".
+Esta ruta sirve para enviar un saludo a los usuarios.
+
+Prueba 3: http://localhost:3000/mensaje/juan
+
+Al ingresar a esta ruta, el servidor toma el parámetro "juan" y responde con el mensaje "Hola juan".
+Esto demuestra cómo Express puede recibir parámetros desde la URL y utilizarlos para generar respuestas dinámicas.
