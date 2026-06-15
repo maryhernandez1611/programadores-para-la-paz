@@ -1,0 +1,33 @@
+pirmero si consultas directamente por medio de un metodo get sin antes implementar un metodo POST, el sistema retornara un arrglo vacio ta que 
+
+-> []
+
+si priero ingresamos un dato POST tal que 
+
+-> {
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+el servidor retornara 
+
+-> {
+	"mensaje": "Reporte registrado",
+	"reporte": {
+		"id": 1,
+		"tipo": "Infraestructura",
+		"descripcion": "Daño en alumbrado público"
+	}
+}
+
+y ya pra finlalizar despues de que el verdor contenga reguistro este al hacer la peticon GET retornara 
+
+->[
+	{
+		"id": 1,
+		"tipo": "Infraestructura",
+		"descripcion": "Daño en alumbrado público"
+	}
+  ]
+
+

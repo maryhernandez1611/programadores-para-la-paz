@@ -1,0 +1,4 @@
+{
+  "tipo": "Contaminacion",
+  "descripcion": "Actual mente no se cuenta con un sistema de recogida de reciduos no degrables de las casas, por los que los ciudadanos los desechan ne zonas verdes lejanas"
+}
