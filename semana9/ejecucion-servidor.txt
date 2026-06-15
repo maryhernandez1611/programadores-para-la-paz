@@ -1,0 +1,20 @@
+Qué ocurre cuando ejecutas node server.js.
+Qué mensaje aparece en la terminal.
+Qué sucede cuando visitas la ruta /estado.
+
+
+
+Al momento de ejecutar el comando `node server.js`, Node.js 
+interpreta y ejecuta el archivo donde se encuentra el código del servidor. En este caso, se inicia un servidor utilizando Express 
+y se pone en funcionamiento en el puerto 3000. Además, en la 
+terminal aparecerá el mensaje “Servidor ejecutándose en puerto 
+3000”, indicando que el servidor está activo. Una vez iniciado, 
+al ingresar a la ruta principal (`/`) se mostrará el mensaje 
+“Servidor activo y funcionando”, y al acceder a la ruta `/estado` 
+se devolverá una respuesta en formato JSON con información sobre 
+el estado del servidor y el servicio de la API comunitaria.
+
+
+
+
+

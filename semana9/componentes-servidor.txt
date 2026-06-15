@@ -1,0 +1,27 @@
+
+Sistema operativo:
+En palabras simples, se comprende como  el software principal que 
+administra los recursos del computador o servidor, como la 
+memoria, archivos y procesos. Además, permite que las 
+aplicaciones y programas funcionen correctamente.
+
+Node.js:
+Es un entorno de ejecución es decir, permite ejecutar código 
+JavaScript fuera del navegador. Donde actualmente lo estamos
+utilizando para  principalmente para crear servidores y 
+aplicaciones web rápidas y comprencible para nuestro aprendisaje.
+
+Aplicación server.js
+Es el archivo donde se encuentra el código del servidor
+ desarrollado en Node.js. Es aqui donde definicmos se las 
+ diferentes  rutas, respuestas y configuraciones necesarias para
+que que nuestro sistema funcione correctamente.
+
+Puerto:
+Los puertos son canales de comunicación que nos dan el acceso a un servicio en un servidor. En este caso, tenemos configurado el  servidor para que utilize el puerto 3000 para resepcion de las solicitudes de nuestros usuarios.
+
+Logs:
+Son registros o mensajes que muestran información sobre el 
+funcionamiento del sistema o servidor. Ayudan a identificar 
+errores, monitorear actividades y verificar que la aplicación 
+funcione correctamente.
