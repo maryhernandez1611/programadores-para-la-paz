@@ -1,0 +1,12 @@
+-> uname -a
+Cuano ejecutas este comado en la terminal aparcen la informacion basica del sitema, como por ejemplo
+el tipo de sistema operativo 
+nombre del usuario que se esta usando 
+vercion del kernel
+la arquictur del sistema entre otro.
+
+-> whoami
+es un comando para saber que persona o usuario se encuentra ejecutando la terminla 
+
+-> por que es importante 
+Conocer información del sistema es útil al administrar un servidor porque permite identificar las características del equipo, el sistema operativo, la versión del kernel y los usuarios que tienen acceso. Esto ayuda a realizar configuraciones correctas, detectar problemas, verificar compatibilidad de programas y mantener la seguridad del servidor. Además, facilita las tareas de mantenimiento y monitoreo del funcionamiento del sistema.

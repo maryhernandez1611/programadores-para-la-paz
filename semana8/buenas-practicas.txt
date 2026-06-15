@@ -1,0 +1,5 @@
+* Escribir contranseñas con caracteres, letras y numeros para que sea mas dificil de codificar 
+
+* no compartir informacion sencible ni las credenciales de acceso a tus cuentas personales 
+
+* no decargar ni istalar aplicaciones de lugares no oficiales
